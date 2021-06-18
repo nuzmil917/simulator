@@ -1,31 +1,7 @@
 {
-	"posts": [
-		{
-			"id": 1,
-			"title": "Post 1"
-		},
-		{
-			"id": 2,
-			"title": "Post 2"
-		},
-		{
-			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"comments": [
-		{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
+	"token": {
+		"accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ik1XUklFeTZZNExJcDhUdjhManpMc2N0NE11YXN0Xy1feHgzRzdJT3p5WnMifQ.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJkZWZhdWx0Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9zZWNyZXQubmFtZSI6InNkcC10b2tlbi0yeHFjOSIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50Lm5hbWUiOiJzZHAiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC51aWQiOiI2MjgxZDI1ZC04NWZkLTRhYjctOGMxMy0wMDMwN2U2MTJhODYiLCJzdWIiOiJzeXN0ZW06c2VydmljZWFjY291bnQ6ZGVmYXVsdDpzZHAifQ.DsduLKBq3fM4IoD9GtnT5qnXRs2Duyf8i0APxjk3I8h2_57x_cTYLaiC1Arqa9-gnlIlFvoeey-SVQ3Uhlc2eApIHLclUSaEXecdGxxGRUSsih6FqAb99-94wEYebUCy4tv46bo68lKUXB6lzniHCRjqCjWyqwU3myI--1YFiG2iIOGLuJD1hha4I9Oz1QTP5B9Hn1mvxxQON5taXmQQXfRdkQJ_3mMOGqpdth6GUjn3Mpeg4cHZwaNj8f5wZTpHgPT2Xz7z8o1FmKe5ARBnOEw8BsJ8k_C6RNdIpTX07c_EJTEt3qS25pW5124WvNxSnycmmclT_JgvyYiR7DNGdA",
+		"tokenType": "bearer",
+		"expiresIn": 3600
 	}
 }
