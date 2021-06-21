@@ -1,6 +1,7 @@
 {
 	"posts": [
 		{
+			"id": "token",
 			"token": {
 				"accessToken": "dsa",
 				"tokenType": "bearer",
